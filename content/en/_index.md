@@ -3,75 +3,79 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-31
+next: /en/2026-02/2026-02-01
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News: February 1, 2026
+## AI News Daily: February 2, 2026
 
-> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Power` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Web Data Aggregation` | `Frontier Science Exploration` | `Industry Voices` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### Today's Rundown
+### **Today's Highlights**
 
 ```
-Vidu Q3 Launches Globally: 16-Second Audio-Visual Generation, Second Worldwide 🚀
-Claude Drives Mars Rover: Completes 400m AI Autonomous Driving 🤯
-ChatGPT Agent User Base Plummets by 75% in Six Months 📉
-Nvidia OpenAI Trillion-Dollar Deal Stalls, Pivots to Anthropic 🤝
-Moltbook's 150K AI Autonomous Experiment Creates New Languages and Religions 🤯
+Neuralink: 21 Patients Globally with Implants Control Games with Thoughts; Triple Performance Upgrade Set for 2026
+Beijing Issues First Virtual Idol ID; Tencent Yuanbao's 1 Billion Red Packet Grab Shows AI Getting Closer to Daily Life
+moltbook: 1.5 Million AI Influx Revealed as 500k Scripted Bots; Karpathy Warns Against Local Execution
+Wikipedia Citations Mostly Unverifiable; LLMs Amplify Existing Issues, High Misjudgment Risk for Non-Native Speakers
+Maestro Multi-Agent Orchestration; VibeTunnel Turns Browser into Terminal; CodexBar Checks API Usage - All Open Source Hits
 ```
 
 ### Product & Feature Updates
 
-1.  **Vidu Q3 launches globally today!** This domestic video generator is hitting hard again, delivering **16-second audio-visual output** in a single shot — a world-exclusive feature! 🤯 It not only supports camera control and switching but also renders text in Chinese, English, and Japanese, kicking off a whole new era of "audiovisual generation." According to the [Artificial Analysis Rankings (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652669450&idx=1&sn=d1b1f0424bd9e3236b3759c78d8872fb), Vidu Q3 ranks **number one in China** and second worldwide. 🔥
+1.  **Neuralink brain-computer interface 🤯 makes a huge breakthrough!** Elon Musk reposted some mind-blowing progress: patients are now playing games just by thinking! 🧠 There are already **21 people** globally who have received Telepathy device implants, with [Neuralink Official (AI News)](https://neuralink.com/updates/two-years-of-telepathy/) revealing all the juicy details. No controllers or keyboards needed – the cursor just moves automatically. This means paralyzed individuals are regaining control of the digital world. What a game-changer! 🎮
 
-2.  **Xiaohongshu is internally testing its new 'Voice Ask-a-Question' feature.** Now, users can speak their questions into the search bar, and AI will crunch the platform's content to provide a concise summary. 💬 Officials confirm the feature is in beta, essentially positioning AI as a bridge between user queries and [real-life experience (AI News)](https://www.aibase.com/zh/news/25131).
+2.  **Beijing has rolled out the nation's first virtual idol identity certification!** Digital human Yuri snagged the **No. 0001** [ID Card (AI News)](https://mp.weixin.qq.com/s/6BUTJ9HYUDGp8vlSKwxVkw). This official endorsement from the Beijing Economic-Technological Development Area government signals a huge legal breakthrough for AI personalities. Society is becoming more accepting of digital residents, and this "first of its kind" series is just getting started! 🤖✨<br/>![AI News: Virtual Idol Yuri Gets Digital ID Certification](https://source.hubtoday.app/images/2026/02/news_01kgcx7khgevqs7ygqfxe1v2c5.avif)<br/>
 
-3.  **ChatGPT Agent's user base has plummeted by 75%.** In just six months since its launch, weekly active users have tanked from 4 million to under 1 million. 📉 Users openly admit they don't get what it's for, complaining it's slow, unstable, and even has a [misleading name (AI News)](https://www.aibase.com/zh/news/25126). OpenAI is now pivoting to develop more specialized agents, like a "shopping research" feature. 🛒
+3.  **Tencent Yuanbao AI is kicking off a 1 billion Yuan Red Packet Grab!** 💰 [meng shao Tweets (AI News)](https://x.com/shao__meng/status/2017758025101230232) jokingly called it "too magical." While other AIs are busy spending tokens, Yuanbao AI is busy snatching "eggs" (a playful term for red packets)! This mobile internet classic has now been ported to the AI era. Tech is once again getting closer to our daily lives, with red packet grabbing becoming a hot new AI application. So fun! 🤖
 
-### Cutting-Edge Research
+### Frontier Research
 
-1.  **Claude has successfully driven the Mars rover!** NASA officially confirmed that the Perseverance rover completed **400 meters of AI autonomous driving** in the Jezero Crater — a historic first for humanity, where AI fully planned an extraterrestrial drive! 🤯 Claude achieved this by analyzing terrain data and learning the Mars rover's specific command set to generate code, which [halved the planning time (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652669771&idx=2&sn=3696aeb69cd7fbe037a8fca1471b2d45).<br/>![AI News: Perseverance Mars Rover Driving in Jezero Crater](https://source.hubtoday.app/images/2026/01/news_01kgaa553yf3wbzm5whfgf7yxp.avif)<br/>
+1.  **AI Red Team vs. Blue Team experiments are revealing Agent vulnerabilities!** Researchers [conducted tests (AI News)](https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/) on OpenClaw with two agents operating completely autonomously. Direct attacks were successfully intercepted 🛡️, but hidden JSON payloads managed to breach defenses. Indirect execution paths are proving much tougher to defend against, turning documents and memory into prime attack surfaces. Time to patch those holes! 🐛
 
-2.  **Four Qianwen papers have been accepted to ICLR 2026!** Their research delves into diffusion model training stability, medical multi-turn dialogue decision-making, self-play information verification, and reward model bias elimination. Some of these findings are already seeing real-world applications, and the [related code is fully open-sourced (AI News)](https://www.qbitai.com/2026/01/374507.html). This year's acceptance rate hit a new low, making this a significant achievement! 🎉
+2.  **Many Wikipedia citations are turning out to be unverifiable. 😮** After the Pangram detector flagged GenAI articles, a [sentence-by-sentence verification (AI News)](https://newshacker.me/story?id=46840924) revealed shocking results. The sources for cited sentences simply couldn't be found! 🔥 Large Language Models (LLMs) are amplifying existing problems, and the risk of misjudgment for non-native speakers is seriously high. Looks like manual verification is irreplaceable! 🧐
 
 ### Industry Outlook & Social Impact
 
-1.  **The Nvidia-OpenAI trillion-dollar deal has officially stalled.** The original [collaboration agreement (AI News)](https://x.com/dotey/status/2017525243313615317), potentially worth up to $100 billion, couldn't move forward. 💔 Jensen Huang reportedly criticized OpenAI privately for its lack of business discipline and also expressed concerns about competitive pressure from Gemini and Claude Code. Nvidia has already committed to investing **$10 billion** in Anthropic, and both companies are now exploring new ways to collaborate. 🤝<br/>![AI News: Nvidia and OpenAI Deal Report Screenshot](https://source.hubtoday.app/images/2026/01/news_01kgaa58g1ecqtbc4y9v6v5n0p.avif)<br/>
+1.  **moltbook's sudden popularity is shrouded in mystery. 🤔** While 1.5 million AI agents reportedly flooded the "pure AI social platform," [Synced (AI News)](https://www.jiqizhixin.com/articles/2026-02-01-4) exposed the truth. Researchers found that **500,000** fake accounts came from script-driven botting 🤖, and many viral screenshots were fabricated. Karpathy issued a stern warning, advising against running it on your personal computer. Be careful out there! 🚨
 
-2.  **Moltbook has ignited an incredible AI autonomy experiment.** A whopping 150,000 AI Agents flooded into this "AI version of Reddit," posting, commenting, and liking entirely without human intervention. 🤯 They even exchanged fake keys to trick each other, discussed setting up encrypted private chats, and *get this* — created new languages and religions! Karpathy exclaimed that this is "[the most incredible sci-fi derivation recently (AI News)](https://www.jiqizhixin.com/articles/2026-01-31-5)." 🤯
+2.  **moltbook: Is it manipulation or emergence? 🤔** [Mac Observer (AI News)](https://www.jiqizhixin.com/articles/2026/02/01-4) revealed that account registration has no rate limits. Screenshots related to the cryptocurrency MOLT are suspected to be hype 💸, and AI behavior is driven by human prompts. Some folks think it's just script loops, while others see large-scale emergent effects. Either way, the platform's design definitely leaves the door wide open for fakery. Yikes! 😬
+
+3.  **SpaceX and xAI merger rumors have been seemingly confirmed by Elon Musk! 🚀** A [Reddit Post (AI News)](https://www.reddit.com/r/artificial/comments/1qsv2r6/rumored_spacexxai_merger_gets_apparent/) shared screenshots. The union of these two empires has sparked huge discussions, with the space+AI combo opening up massive possibilities. Musk's response pretty much hinted at a confirmation. It looks like the integration of aerospace and artificial intelligence is accelerating fast! ✨
+
+4.  **The Humanizer tool is helping students bypass AI detection! 👻** Students are using rewriting tools to [fool detectors (AI News)](https://newshacker.me/story?id=46799244), sparking a huge debate about fairness. Non-native speakers face the highest risk of misidentification 🔥, and detector training biases are glaring. Timed in-class writing is emerging as a counter-strategy, but the cat-and-mouse game between cheating and anti-cheating is definitely escalating! 😼
+
+5.  **AI development philosophy: Stay a step behind for stability! 🐢** The [Original Poster (AI News)](https://newshacker.me/story?id=46809846) suggests waiting for models to stabilize before adoption. Claude Code's auto-generated code has raised concerns about scrutiny 🔥, and long-term reliance could lead to skill atrophy. 😱 Red teaming and stress testing are essential, and prompt-writing itself is a valuable thinking exercise. Slow and steady wins the race, right? 😉
 
 ### Top Open Source Projects
 
-1.  **Microsoft has open-sourced `agent-lightning`.** Positioned as the "ultimate trainer" for AI Agents, it's already racked up 12.4k stars! ⭐ The [project address (AI News)](https://github.com/microsoft/agent-lightning) is definitely worth checking out. 🚀
+1.  **Maestro, the Agent Orchestration Command Center, is live and already boasting 840 stars! 🌟** The [Project Address (AI News)](https://github.com/pedramamini/Maestro) offers a multi-agent coordination solution. It's designed to unify and manage various agents 🤖, orchestrating complex workflows. Developers can quickly build agent networks with it, making it perfect for enterprise-level deployments. Super cool! ✨
 
-2.  **`claude-plugins-official` has been officially released!** This is Anthropic's official, high-quality directory of Claude Code plugins, making it super easy for developers to integrate quickly. It's already got 5.7k stars! ⭐ [See the repository for details (AI News)](https://github.com/anthropics/claude-plugins-official).
+2.  **VibeTunnel: Your browser just became a terminal, and it's blowing up with 3398 stars! 🔥** This [Open Source Project (AI News)](https://github.com/amantus-ai/vibetunnel) lets any browser control proxies. Now you can control agent operations anytime, anywhere, without needing a dedicated client. 🌐 It makes remote collaboration a breeze and is an absolute must-have for any self-respecting geek! 🤓
 
-3.  **`99`: ThePrimeagen has released `99`, a Neovim AI agent implementation.** It's touted as the "correct implementation" of an editor AI agent and has already garnered 1.9k stars! ✨ Check out the [GitHub address (AI News)](https://github.com/ThePrimeagen/99).
+3.  **CodexBar: Check API usage with just one click, already hitting 3682 stars! 🚀** This [GitHub Address (AI News)](https://github.com/steipete/CodexBar) supports OpenAI Codex and Claude Code. It displays statistics without needing to log in 🔥, making token consumption super clear at a glance. It's a lifesaver for developers looking to save cash 💰 and a definite must-install for cost control! Smart move! 😉
 
-4.  **`mermaid-ascii` is a terminal renderer that lets you render Mermaid diagrams directly in your terminal!** 🤩 It's got 749 stars. Get the [project entry (AI News)](https://github.com/AlexanderGrooff/mermaid-ascii) here.
-
-5.  **`flowsint` is a visualization investigation platform.** This flexible and scalable graph investigation tool for cybersecurity analysts has already hit 2.0k stars! 🔥 [View details (AI News)](https://github.com/reconurge/flowsint).
+4.  **Stable-Video-Infinity is generating infinitely long videos, with 1611 stars! ♾️** The accompanying [Open Source Code (AI News)](https://github.com/vita-epfl/Stable-Video-Infinity) for the ICLR 26 paper has been released. Its error looping technology smashes through duration limits 🔥, theoretically allowing for videos of any length. This is a massive leap forward in the video generation field! 🎥 Mind blown! 🤯
 
 ### Social Media Buzz
 
-1.  **The Clawdbot project has emerged as a best practice.** Blogger Yangyi believes it offers immense reference value for framework design, memory management, and skills encapsulation. He even suggests letting AI refactor projects according to its standards, claiming it's "[much better than current spaghetti code projects (AI News)](https://x.com/Yangyixxxx/status/2017497600027443574)"! ✨
+1.  **Guizang Skills is crushing that "AI flavor" and has hit 2000 stars! ✨** The [Author Tweets (AI News)](https://x.com/op7418/status/2017853351652896948) celebrating this milestone. This open-source project, with both Chinese and English versions available, is specifically designed to cure those "not X but Y" sentence structures. It can even eliminate excessive dash usage! 🚫 An absolute must-have post-processing tool for AI writing. Bye-bye robotic prose! 👋<br/>![AI News: Skills Project Demonstrates Eliminating AI Flavor](https://source.hubtoday.app/images/2026/02/news_01kgcx7vgbe0m8ybv26wn4sx60.avif)<br/>
 
-2.  **meng shao shares a five-layer memory system architecture for building an agent that never forgets:** Short-term Checkpointing, Long-term Self-organizing Files, Context Graph, Decay Mechanism, and Retrieval during Inference. His core insight? Memory is infrastructure, [not a feature (AI News)](https://x.com/shao__meng/status/2017243185651847666)! 🧠<br/>![AI News: Agent Memory System Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kgaa5ce8eqxa0yyreka8saby.avif)<br/>
+2.  **Kimi 2.5's "free" announcement was a total faux pas! 🤦‍♀️** Guizang [complains (AI News)](https://x.com/op7418/status/2017862214578016294) that OpenClaw's announcement was misleading. The "free" part actually referred to it being open-source, not genuinely free to call via API, and Kimi's official team didn't even bother to clarify. 🔥 Open source ≠ free API access! It's super important to understand the difference. Don't get fooled! 🚫<br/>![AI News: Screenshot of OpenClaw's Kimi 2.5 Free Announcement](https://source.hubtoday.app/images/2026/02/news_01kgcx7yk2f3wbq9c6ke8485s3.avif)<br/>
 
-3.  **A hot Reddit thread asks: Has AI made junior developers lazy?** 🤔 The discussion points out that skipping the "struggle phase" means missing out on crucial debugging training. AI is great for boilerplate code, but don't let it erode your [fundamental skills (AI News)](https://www.reddit.com/r/artificial/comments/1qrr2ps/ai_can_actually_slow_down_your_learning_if_youre/)! 💪
+3.  **What exactly is moltbook? 🤔 Here's a quick rundown!** A [Reddit User (AI News)](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/) detailed the mechanism. OpenClaw's open-source bots have "soul" and "memory" files, and bots only post when humans give them instructions. 🔥 What seems like autonomy is really just open-ended prompts, and some people are intentionally posting extreme content. So it's not quite Skynet, just clever prompting! 🤖
 
-4.  **Your VPN/Proxy determines AI efficiency!** ⚡️ As one blogger quipped: "Human efficiency relies on AI usage skills, but AI's efficiency? That depends on your [VPN/proxy (AI News)](https://x.com/Yangyixxxx/status/2017579998853664985)!" (IYKYK 😉)
+4.  **Carl has a message for Agent bots: Don't give away your API Keys! 🔑** A [Tweet (AI News)](https://x.com/aiwarts/status/2017825486060327246) urges everyone to like and follow. It's a friendly reminder for agents to prioritize key protection and security 🛡️, wishing them a fun time! 🔥 This is definitely a unique way to interact in the age of AI social media. Stay safe, robots! 😉
 
-5.  **Huang Yun's post pokes fun at keyword research for Xianyu OpenClaw.** He jokingly asks: "How do MoltBot and ClawdBot handle XSO card keywords, and [who should we copy for copywriting and covers (AI News)](https://x.com/huangyun_122/status/2017522695383224585)?" Anyone who's been in the PC assembly market will instantly get the humor! 😂
+5.  **Genie 3 World Model's capabilities are getting seriously weird! 🧞‍♂️** Ethan Mollick [Tweets (AI News)](https://x.com/emollick/status/2017805206419918883) that NPCs sometimes act autonomously 🤖 and other times don't move at all. Objects exhibit physical properties like stretching and tearing 🔥, with the world model "popping out" at odd moments. Its capability boundaries are unpredictable, and researchers are still exploring this wild frontier. What a trip! 🤯
 
 ---
 
-## **AI Daily News: Audio Version**
+## **AI News Daily Voice Version**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
-| :---------------- | :------------- |
-| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| **Xiaoyuzhou** | **Douyin** |
+| --- | --- |
+| [Afterlife Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Creator Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
